@@ -17,3 +17,6 @@ Anticipating an academic exchange at Zhejiang University during the Spring 2027 
 *   🏆 I play rugby at a national competition level.
 *   🗣️ I speak French (Native), English (C1), and Chinese (HSK3).
 *   ♟️ I also enjoy playing chess.
+
+### 🚀 Featured Projects
+*   **[CAC 40 Financial Modeling](https://github.com/matisse-cloud/CAC-40-Financial-Modeling)**: Modeled the precision matrix of returns using the Graphical Lasso estimator and developed a graphical interface for stock portfolio analysis.
