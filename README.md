@@ -20,5 +20,5 @@ Anticipating an academic exchange at Zhejiang University during the Spring 2027 
 
 ### 🚀 Featured Projects
 *   **[CAC 40 Financial Modeling](https://github.com/matisse-cloud/CAC-40-Financial-Modeling)**: Modeled the precision matrix of returns using the Graphical Lasso estimator and developed a graphical interface for stock portfolio analysis.
-*   <img width="1589" height="1190" alt="output3" src="https://github.com/user-attachments/assets/0dab4203-05e1-4243-bea3-5b89b84d8ebb" />
+*   <img width="794" height="595" alt="output3" src="https://github.com/user-attachments/assets/0dab4203-05e1-4243-bea3-5b89b84d8ebb" />
 
